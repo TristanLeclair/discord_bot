@@ -1,4 +1,5 @@
 import discord
+from creds import discord_token
 
 
 intents = discord.Intents.default()
