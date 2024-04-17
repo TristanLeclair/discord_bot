@@ -25,4 +25,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient(intents=intents)
-client.run("addyourapikeyhere")
+client.run(discord_token)
